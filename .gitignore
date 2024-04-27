@@ -1,0 +1,6 @@
+# GTSRB klasörü ve içeriği
+GTSRB/
+
+# Belirli dosya uzantıları
+*.jpg
+*.png
